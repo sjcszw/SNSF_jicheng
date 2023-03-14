@@ -1,0 +1,2 @@
+http://ieee-cssletters.dei.unipd.it/Page_authors.php?p=1
+The document should be configured for US Letter paper. If you use LATEX, choose the line \documentclass[letterpaper, 10 pt, conference]{ieeeconf}

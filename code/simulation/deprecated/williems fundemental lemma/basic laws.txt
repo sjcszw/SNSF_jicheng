@@ -1,0 +1,30 @@
+1. N_ini >= l(B) lag, then x_ini is uniqure
+Rouché–Capelli theorem
+
+Linear Systems: Consistency and Compatibility
+
+[Disturbance Decoupled Observer Design: A Unified Viewpoint]
+找到一个noise free的系统， y为input
+there should exist an equivalent disturbance free system behind different kinds of disturbance decoupled observer design methods
+
+[Input observability and input reconstruction]
+用invariant zeros判定
+If the system (1)—(2) is not input observable but input detectable
+u' ->u as t -> infinity
+
+[Unknown disturbance inputs estimation based on a state functional observer design]
+词汇
+noise estimator
+disturbance observer
+
+[Unbiased Minimum-variance Filtering for Input Reconstruction]
+(A subspace algorithm for simultaneous identification
+and input reconstruction)
+离散DT system
+用rank[Obe, Top]判定
+input and state observable, then for all r>=r0, x0 and u_seq are uniquely determined from y
+
+[Strong detectability and observers]
+判定ZEROS是否成立 Hermite, Smith, or Kronecker normal forms
+DT：2 detetability are same; 但要有UIO，需要额外1.7； 不满足1.7，delayed UIO可以建立：
+hat_x( t )- x( t - T) -> 0

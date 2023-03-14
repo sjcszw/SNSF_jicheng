@@ -1,4 +1,4 @@
 *.asv
-*.code/simulation/deprecated
+*deprecated/
 
 

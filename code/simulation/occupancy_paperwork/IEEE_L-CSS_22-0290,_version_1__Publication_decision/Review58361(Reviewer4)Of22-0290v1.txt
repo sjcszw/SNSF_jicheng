@@ -1,0 +1,14 @@
+The paper improves upon the work presented in [18] so that offline
+state measurements are no longer required for input reconstruction. 
+
+The development is interesting, but the authors could highlight the
+usefulness of the methods further by comparing the developed technique
+against two-step approaches.
+
+Under the observability and excitation assumptions made in this paper,
+methods such as subspace identification can be used to generate state
+estimates x_d, in a user-selected basis, from the recorded data
+(y_d,u_d). The development in [18] can then be used for input
+reconstruction. It would be interesting to compare the two approaches
+to highlight the practical benefits of the direct approach over the
+indirect approach.

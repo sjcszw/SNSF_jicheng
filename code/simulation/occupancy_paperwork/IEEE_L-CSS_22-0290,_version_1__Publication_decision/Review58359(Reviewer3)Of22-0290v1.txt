@@ -1,0 +1,11 @@
+The paper is well written and structured, but notationwise is hard to
+follow, e.g., the use of the bold font and super/subscripts  is very
+puzzling some times. Also, part of the mathematical derivation of the
+results becomes a bit dense; some examples along the way could have
+been helpful to illustrate the main points of the manuscript.
+Nevertheless, I am aware that this is almost an impossible task due to
+the tight page limit of the journal. Despite these issues, the results
+of the paper are relevant and it is very welcome that besides an
+academic simulation a real experiment is presented. More information
+regarding the comparison with other methods are welcome as well (e.g.,
+comments on computation burden). 

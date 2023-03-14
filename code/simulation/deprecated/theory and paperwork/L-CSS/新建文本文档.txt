@@ -1,8 +1,0 @@
-Hi Colin, I revise the paper based on your feedback. But here are some points that I want to explain. 
-1. On page 4.  I think U = [U1 U2; U2 U3] does not helps. Because we still need V*F*U but not V3*F*U3.
-
-2. On page 5. In simulation, [A,B;C,D] are chosen by random matrices such that the model-based UIO excistence condition holds.
-
-3. On page 5. In simulation, the system id procedure will results the true matrices. I add it because we need to explain the process of the two-step UIO methods. It will also be used in the expriment part. 
-
-3. On page 6. Regarding the plots for experiments, we don't have the plots for R-IRO because we don't have the design freedom after SVD when there are noises. We explain the reason in the footnote. The error plot design of GPR and LR make seence, but we really don't have enough space for that. 

@@ -1,2 +1,0 @@
-[Input Observability and Input Reconstruction]
-system inversion: input: ori output;  output: original input; stable invertibility: Moylan (1977), necessary and sufficient conditions
